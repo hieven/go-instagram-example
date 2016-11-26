@@ -1,0 +1,22 @@
+hash: bd5232bd04e9dd41caa3c5095e6c28e11da246373f93ba1a27279cc4a5f28f60
+updated: 2016-11-26T10:52:10.238537101+08:00
+imports:
+- name: github.com/hieven/go-instagram
+  version: ceb9d23742774b9cdd707584ac0efea3572c1484
+  subpackages:
+  - constants
+  - models
+  - utils
+- name: github.com/moul/http2curl
+  version: 4e24498b31dba4683efb9d35c1c8a91e2eda28c8
+- name: github.com/parnurzeal/gorequest
+  version: 2aea80ce763523ecc6452e61c3727ae9595a5809
+- name: github.com/robfig/cron
+  version: b024fc5ea0e34bc3f83d9941c8d60b0622bfaca4
+- name: github.com/satori/go.uuid
+  version: 879c5887cd475cd7864858769793b2ceb0d44feb
+- name: golang.org/x/net
+  version: 4971afdc2f162e82d185353533d3cf16188a9f4e
+  subpackages:
+  - publicsuffix
+testImports: []
